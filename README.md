@@ -1,1 +1,1 @@
-# This is a private repo for SErgej Morgulis
+# This is a private repo for Sergej Morgulis
